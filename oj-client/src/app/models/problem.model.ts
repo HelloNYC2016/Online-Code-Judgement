@@ -1,6 +1,6 @@
 export class Problem {
   id: number;
   name: string;
-  description: string;
+  desc: string;
   difficulty: string;
 }
